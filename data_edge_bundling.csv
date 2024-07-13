@@ -1,0 +1,7 @@
+"id","node","size","importIds"
+1,"company.salesManager.salesPersonA",12,"2,4,6"
+2,"company.salesManager.salesPersonB",2,""
+3,"company.HRManager.recruiterA",120,"4,1"
+4,"company.HRManager.recruiterB",19,""
+5,"company.engineerManager.engineerA",121,""
+6,"company.engineerManager.engineerB",127,"5"
